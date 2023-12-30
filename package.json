@@ -1,0 +1,26 @@
+{
+  "name": "vue-emi-calculator",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@canvasjs/vue-charts": "^1.0.1",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue": "^2.23.1",
+    "chart.js": "^3.9.1",
+    "vue": "^3.3.11",
+    "vue-chart-3": "^3.1.8",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.10"
+  }
+}
